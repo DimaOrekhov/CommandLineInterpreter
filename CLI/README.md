@@ -1,3 +1,3 @@
-Интерпретатор командой строки
+Command Line Interpreter
 
-Поддерживает переменные, пайпы, команды echo, cat, wc, grep, запуск внешних команд через java.lang.Process.
+Supports variables, pipes, command `echo`, `cat`, `wc`, `grep` and launchin external command via `java.lang.Process`
